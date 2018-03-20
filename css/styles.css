@@ -1,19 +1,21 @@
 h1 {
-    color:dimgrey;
+    color:#070000;
     font-family:fantasy;
     
 }
-h2 {color:#740505; 
+h2 {color:#ffffff; 
    
 }
 h4 {
-    color: darkred;
+    color: #f0e0e0;
 }
 
 body, html {
     height: 100%;
 }
 
-.bg {
-    background-image: url()
-}
+body {
+  
+    background-image: url("../images/sneakers.jpg");
+background-size:cover;}
+
