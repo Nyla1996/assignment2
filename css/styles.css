@@ -3,13 +3,17 @@ h1 {
     font-family:fantasy;
     
 }
-h2 {color:aqua; 
+h2 {color:#740505; 
    
 }
 h4 {
     color: darkred;
 }
 
-body {
-    background-image: url( )
+body, html {
+    height: 100%;
+}
+
+.bg {
+    background-image: url()
 }
